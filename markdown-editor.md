@@ -1,7 +1,7 @@
 __Проект "Калькулятор"__
 
 Этот калькулятор умеет 
-* складывать :heavy_plus_sign:
+* :heavy_plus_sign: складывать
 * вычитать :heavy_minus_sign:
 * умножать :heavy_multiplication_x:
 * делить :heavy_division_sign:
